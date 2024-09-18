@@ -6,6 +6,10 @@
 
 
 I am a Junior Data Engineer and Data Analyst who is passionate about turning raw data into actionable insights. I am enthusiastic about applying my skills to real-world challenges and contributing to data-driven decision-making with my skills in data manipulation, analysis, and visualization.
+Here you will find a collection of my personal projects.
+
+I am always eager to learn new technologies and techniques, and I am excited to continue growing as a data developer.
+Please feel free to check out my projects, and let me know if you have any questions or comments.
 
 </div>
 
