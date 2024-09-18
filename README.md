@@ -36,6 +36,3 @@ I am a Junior Data Engineer and Data Analyst who is passionate about turning raw
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zakariahrt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
