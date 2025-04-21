@@ -2,41 +2,59 @@
   
 # Hi 👋, I'm Zakaria!
 
-# Data Engineering and Analytics Enthusiast 📊 | Cloud Passionate ☁️
+# Computer Engineer | Data & AI Engineer | Software Developer | DevOps/MLOps | Cloud & IoT Systems Enthusiast
 
 
-I am a Junior Data Engineer and Data Analyst who is passionate about turning raw data into actionable insights. I am enthusiastic about applying my skills to real-world challenges and contributing to data-driven decision-making with my skills in data manipulation, analysis, and visualization.
-Here you will find a collection of my personal projects.
+I’m a Computer Engineer with a passion for building smart, scalable, and automated systems.
 
-I am always eager to learn new technologies and techniques, and I am excited to continue growing as a data developer.
-Please feel free to check out my projects, and let me know if you have any questions or comments.
+Data Engineering & AI/ML – from data pipelines to model deployment
+
+DevOps & MLOps – CI/CD, container orchestration, and automated ML workflows
+
+Cloud Computing – deploying production-ready systems on Cloud
+
+I love bridging software, data, and infrastructure to create solutions that are robust, efficient, and intelligent.
 
 </div>
 
 # 💻🌟 Tech Stack:
 
-### 💻 Programming Languages:
+## Programming Languages:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+### - Python, Java, JS, C
 
-### 📚 Relational Databases Management System (DBMS):
+## Relational Databases Management System (DBMS):
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### - MySQL, Microsoft SQL Server, Oracle DB
 
-### 🛢️ NoSQL databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+## NoSQL Databases:
 
-### ☁️ Cloud Computing Platform:
+### - MongoDB, Redis
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## Data Pipeline and Transform:
 
-### 📊 Dataviz:
+### - DBT, Airflow, Cloudera, Spark and Databricks
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## Dataviz:
 
-### 🐱 Version Control system:
+### - Power Bi
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+## Cloud Computing Platform:
+
+### - Azure, AWS, OCI, Nextcloud
+
+## Software Development Tools:
+
+### - Azure DevOps, Jenkins, Github
+
+## Web Servers:
+
+### - Nginx, cPanel, aaPanel
+
+## Infrastructure as Code:
+
+### - Ansible (Config), Terraform (Provisioning), Docker, Kubernetes
+
 
 
 ---
