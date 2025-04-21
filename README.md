@@ -2,7 +2,7 @@
   
 # Hi 👋, I'm Zakaria!
 
-# Computer Engineer | Data & AI Engineer | Software Developer | DevOps/MLOps | Cloud & IoT Systems Enthusiast
+# Computer Engineering | Data & AI Engineering | Software Development | DevOps/MLOps | Cloud & IoT Systems Enthusiast
 
 
 I’m a Computer Engineer with a passion for building smart, scalable, and automated systems.
