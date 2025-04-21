@@ -21,39 +21,39 @@ I love bridging software, data, and infrastructure to create solutions that are 
 
 ## Programming Languages:
 
-### - Python, Java, JS, C
+### ---> Python, Java, JS, C
 
 ## Relational Databases Management System (DBMS):
 
-### - MySQL, Microsoft SQL Server, Oracle DB
+### ---> MySQL, Microsoft SQL Server, Oracle DB
 
 ## NoSQL Databases:
 
-### - MongoDB, Redis
+### ---> MongoDB, Redis
 
 ## Data Pipeline and Transform:
 
-### - DBT, Airflow, Cloudera, Spark and Databricks
+### ---> DBT, Airflow, Cloudera, Spark and Databricks
 
 ## Dataviz:
 
-### - Power Bi
+### ---> Power Bi
 
 ## Cloud Computing Platform:
 
-### - Azure, AWS, OCI, Nextcloud
+### ---> Azure, AWS, OCI, Nextcloud
 
 ## Software Development Tools:
 
-### - Azure DevOps, Jenkins, Github
+### ---> Azure DevOps, Jenkins, Github
 
 ## Web Servers:
 
-### - Nginx, cPanel, aaPanel
+### ---> Nginx, cPanel, aaPanel
 
 ## Infrastructure as Code:
 
-### - Ansible (Config), Terraform (Provisioning), Docker, Kubernetes
+### ---> Ansible (Config), Terraform (Provisioning), Docker, Kubernetes
 
 
 
