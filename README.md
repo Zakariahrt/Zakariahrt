@@ -49,7 +49,7 @@ I love bridging software, data, and infrastructure to create solutions that are 
 
 ## Web Servers:
 
-### ---> Nginx, cPanel, aaPanel
+### ---> Nginx, Node.js, cPanel, aaPanel
 
 ## Infrastructure as Code:
 
